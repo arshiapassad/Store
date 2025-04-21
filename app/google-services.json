@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231338422254",
+    "project_id": "arshia-store-app",
+    "storage_bucket": "arshia-store-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231338422254:android:54176c3198fd4907bca8ff",
+        "android_client_info": {
+          "package_name": "com.example.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSpkN4Q4KDTudVn_JdHDSBIN18-CFsviY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
